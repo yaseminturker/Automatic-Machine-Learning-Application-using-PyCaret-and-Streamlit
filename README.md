@@ -1,4 +1,4 @@
-# Automatic-Machine-Learning-Application-using-PyCaret-and-Streamlit
+# Building and Deploying a Multi-Purpose Machine Learning App: A PyCaret and Streamlit Experience with Classification, Regression, and Clustering
 
 **In this project, we builded and deployed ML app with PyCaret and Streamlit.**
 
